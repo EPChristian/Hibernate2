@@ -1,1 +1,1 @@
-# Hibernate2
+# Hibernate (2 задача)
